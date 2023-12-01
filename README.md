@@ -3,6 +3,9 @@
 **Languages, technologies and tools.**
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,ts,vue,mysql,css,tailwind,sass,bootstrap,html,symfony,docker)](https://skillicons.dev)
+
+<a href="https://dominikgos.github.io/" target="_blank">My portfolio</a>
+
 <!--
 **DominikGos/DominikGos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
